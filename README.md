@@ -81,6 +81,7 @@
 | 5 | [🔐 login-system-fullstack](https://github.com/wahidali-glitch/login-system-fullstack) | Full-stack auth system with user dashboard, registration & management | Java | ⭐ 2 |
 | 6 | [🛡️ login-registration-servlet-jdbc](https://github.com/wahidali-glitch/login-registration-servlet-jdbc) | Login & Registration system using Java Servlets, JSP, JDBC & PostgreSQL | Java | ⭐ 2 |
 | 7 | [🌍 Campus-Network-DHCP-DNS](https://github.com/wahidali-glitch/Campus-Network-DHCP-DNS) | Campus network simulation with DHCP, DNS, IP addressing & static routing (MIT License) | Networking | ⭐ 2 |
+| 8 | [🏦 SecureTrust-Bank-Network-Design](https://github.com/wahidali-glitch/SecureTrust-Bank-Network-Design) | Secure banking network simulation with VLANs, Inter-VLAN routing, DHCP, DNS, RIP v2 & ACL security | Networking | ⭐ |
 
 ---
 
