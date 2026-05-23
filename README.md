@@ -24,6 +24,7 @@
 - 🌱 I'm currently learning **System Design & Advanced DSA**
 - 👯 I'm looking to collaborate on **open-source backend projects**
 - 🤖 I'm also exploring **Python, Flask & Machine Learning**
+- 🗄️ Passionate about **Database Design, Normalization & Relational Schemas**
 - 💬 Ask me about **Java, Python, SQL, Servlets, JSP, PostgreSQL, Flask**
 - 📫 Reach me at: **wahid.imcb@gmail.com** · **[LinkedIn](https://www.linkedin.com/in/wahid-ali-93b436301/)**
 - ⚡ Fun fact: I love building scalable systems and solving DSA problems!
@@ -64,6 +65,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -82,6 +84,7 @@
 | 6 | [🛡️ login-registration-servlet-jdbc](https://github.com/wahidali-glitch/login-registration-servlet-jdbc) | Login & Registration system using Java Servlets, JSP, JDBC & PostgreSQL | Java | ⭐ 2 |
 | 7 | [🌍 Campus-Network-DHCP-DNS](https://github.com/wahidali-glitch/Campus-Network-DHCP-DNS) | Campus network simulation with DHCP, DNS, IP addressing & static routing (MIT License) | Networking | ⭐ 2 |
 | 8 | [🏦 SecureTrust-Bank-Network-Design](https://github.com/wahidali-glitch/SecureTrust-Bank-Network-Design) | Secure banking network simulation with VLANs, Inter-VLAN routing, DHCP, DNS, RIP v2 & ACL security | Networking | ⭐ |
+| 9 | [🗄️ dbms-normalization-postgresql](https://github.com/wahidali-glitch/dbms-normalization-postgresql) | Practical DBMS normalization from UNF → 1NF → 2NF with 10 real-world scenarios using PostgreSQL & DBeaver | PostgreSQL / SQL | ⭐ |
 
 ---
 
