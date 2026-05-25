@@ -61,6 +61,14 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+**Cloud & Deployment**
+
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+![Apache HTTP](https://img.shields.io/badge/Apache%20HTTP-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven%20WAR-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -77,7 +85,7 @@
 | # | Project | Description | Tech | Stars |
 |---|---------|-------------|------|-------|
 | 1 | [🔵 BluetoothChatApp](https://github.com/wahidali-glitch/BluetoothChatApp) | Android Bluetooth Chat App with device discovery, real-time messaging, file transfer & timestamps | Kotlin | ⭐ 3 |
-| 2 | [💳 personal-expense-tracker-fullstack-java](https://github.com/wahidali-glitch/personal-expense-tracker-fullstack-java) | Full-stack Java expense manager with JSP, Servlets, Hibernate, PostgreSQL & BCrypt auth | Java | ⭐ 2 |
+| 2 | [💳 personal-expense-tracker-fullstack-java](https://github.com/wahidali-glitch/personal-expense-tracker-fullstack-java) | Full-stack Java expense manager with JSP, Servlets, Hibernate, PostgreSQL & BCrypt auth — **built as a `.war` artifact and live-deployed on AWS EC2 with Apache Tomcat 10** · [🌐 Live Demo](http://32.236.81.179/Front_back_end/) | Java · AWS EC2 | ⭐ 2 |
 | 3 | [🏏 Cricket-Match-Prediction](https://github.com/wahidali-glitch/Cricket-Match-Prediction) | AI-powered cricket match predictor using Python, Flask & Decision Tree Algorithm | Python / Flask | ⭐ 1 |
 | 4 | [🌐 wahidali-glitch.github.io](https://github.com/wahidali-glitch/wahidali-glitch.github.io) | Personal portfolio website | HTML / CSS | ⭐ 2 |
 | 5 | [🔐 login-system-fullstack](https://github.com/wahidali-glitch/login-system-fullstack) | Full-stack auth system with user dashboard, registration & management | Java | ⭐ 2 |
