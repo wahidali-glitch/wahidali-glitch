@@ -3,16 +3,16 @@
 <h3 align="center">Backend Developer · CS Student · Problem Solver</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/wahid-ali-93b436301/">
+  <a href="https://www.linkedin.com/in/wahid-ali-93b436301/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wahidali-glitch.github.io">
+  <a href="https://wahidali-glitch.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:wahid.imcb@gmail.com">
+  <a href="mailto:wahid.imcb@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/wahidali-glitch">
+  <a href="https://github.com/wahidali-glitch" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -26,7 +26,7 @@
 - 🤖 I'm also exploring **Python, Flask & Machine Learning**
 - 🗄️ Passionate about **Database Design, Normalization & Relational Schemas**
 - 💬 Ask me about **Java, Python, SQL, Servlets, JSP, PostgreSQL, Flask**
-- 📫 Reach me at: **wahid.imcb@gmail.com** · **[LinkedIn](https://www.linkedin.com/in/wahid-ali-93b436301/)**
+- 📫 Reach me at: **wahid.imcb@gmail.com** · <a href="https://www.linkedin.com/in/wahid-ali-93b436301/" target="_blank">LinkedIn</a>
 - ⚡ Fun fact: I love building scalable systems and solving DSA problems!
 
 ---
@@ -84,15 +84,15 @@
 
 | # | Project | Description | Tech | Stars |
 |---|---------|-------------|------|-------|
-| 1 | [🔵 BluetoothChatApp](https://github.com/wahidali-glitch/BluetoothChatApp) | Android Bluetooth Chat App with device discovery, real-time messaging, file transfer & timestamps | Kotlin | ⭐ 3 |
-| 2 | [💳 personal-expense-tracker-fullstack-java](https://github.com/wahidali-glitch/personal-expense-tracker-fullstack-java) | Full-stack Java expense manager with JSP, Servlets, Hibernate, PostgreSQL & BCrypt auth — **built as a `.war` artifact and live-deployed on AWS EC2 with Apache Tomcat 10** · [🌐 Live Demo](http://32.236.81.179/Front_back_end/) | Java · AWS EC2 | ⭐ 2 |
-| 3 | [🏏 Cricket-Match-Prediction](https://github.com/wahidali-glitch/Cricket-Match-Prediction) | AI-powered cricket match predictor using Python, Flask & Decision Tree Algorithm | Python / Flask | ⭐ 1 |
-| 4 | [🌐 wahidali-glitch.github.io](https://github.com/wahidali-glitch/wahidali-glitch.github.io) | Personal portfolio website | HTML / CSS | ⭐ 2 |
-| 5 | [🔐 login-system-fullstack](https://github.com/wahidali-glitch/login-system-fullstack) | Full-stack auth system with user dashboard, registration & management | Java | ⭐ 2 |
-| 6 | [🛡️ login-registration-servlet-jdbc](https://github.com/wahidali-glitch/login-registration-servlet-jdbc) | Login & Registration system using Java Servlets, JSP, JDBC & PostgreSQL | Java | ⭐ 2 |
-| 7 | [🌍 Campus-Network-DHCP-DNS](https://github.com/wahidali-glitch/Campus-Network-DHCP-DNS) | Campus network simulation with DHCP, DNS, IP addressing & static routing (MIT License) | Networking | ⭐ 2 |
-| 8 | [🏦 SecureTrust-Bank-Network-Design](https://github.com/wahidali-glitch/SecureTrust-Bank-Network-Design) | Secure banking network simulation with VLANs, Inter-VLAN routing, DHCP, DNS, RIP v2 & ACL security | Networking | ⭐ |
-| 9 | [🗄️ dbms-normalization-postgresql](https://github.com/wahidali-glitch/dbms-normalization-postgresql) | Practical DBMS normalization from UNF → 1NF → 2NF with 10 real-world scenarios using PostgreSQL & DBeaver | PostgreSQL / SQL | ⭐ |
+| 1 | <a href="https://github.com/wahidali-glitch/BluetoothChatApp" target="_blank">🔵 BluetoothChatApp</a> | Android Bluetooth Chat App with device discovery, real-time messaging, file transfer & timestamps | Kotlin | ⭐ 3 |
+| 2 | <a href="https://github.com/wahidali-glitch/personal-expense-tracker-fullstack-java" target="_blank">💳 personal-expense-tracker-fullstack-java</a> | Full-stack Java expense manager with JSP, Servlets, Hibernate, PostgreSQL & BCrypt auth — **built as a `.war` artifact and live-deployed on AWS EC2 with Apache Tomcat 10** · <a href="http://32.236.81.179/Front_back_end/" target="_blank">🌐 Live Demo</a> | Java · AWS EC2 | ⭐ 2 |
+| 3 | <a href="https://github.com/wahidali-glitch/Cricket-Match-Prediction" target="_blank">🏏 Cricket-Match-Prediction</a> | AI-powered cricket match predictor using Python, Flask & Decision Tree Algorithm | Python / Flask | ⭐ 1 |
+| 4 | <a href="https://github.com/wahidali-glitch/wahidali-glitch.github.io" target="_blank">🌐 wahidali-glitch.github.io</a> | Personal portfolio website | HTML / CSS | ⭐ 2 |
+| 5 | <a href="https://github.com/wahidali-glitch/login-system-fullstack" target="_blank">🔐 login-system-fullstack</a> | Full-stack auth system with user dashboard, registration & management | Java | ⭐ 2 |
+| 6 | <a href="https://github.com/wahidali-glitch/login-registration-servlet-jdbc" target="_blank">🛡️ login-registration-servlet-jdbc</a> | Login & Registration system using Java Servlets, JSP, JDBC & PostgreSQL | Java | ⭐ 2 |
+| 7 | <a href="https://github.com/wahidali-glitch/Campus-Network-DHCP-DNS" target="_blank">🌍 Campus-Network-DHCP-DNS</a> | Campus network simulation with DHCP, DNS, IP addressing & static routing (MIT License) | Networking | ⭐ 2 |
+| 8 | <a href="https://github.com/wahidali-glitch/SecureTrust-Bank-Network-Design" target="_blank">🏦 SecureTrust-Bank-Network-Design</a> | Secure banking network simulation with VLANs, Inter-VLAN routing, DHCP, DNS, RIP v2 & ACL security | Networking | ⭐ |
+| 9 | <a href="https://github.com/wahidali-glitch/dbms-normalization-postgresql" target="_blank">🗄️ dbms-normalization-postgresql</a> | Practical DBMS normalization from UNF → 1NF → 2NF with 10 real-world scenarios using PostgreSQL & DBeaver | PostgreSQL / SQL | ⭐ |
 
 ---
 
