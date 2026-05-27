@@ -60,6 +60,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Cloud & Deployment**
 
@@ -68,6 +69,7 @@
 ![Apache HTTP](https://img.shields.io/badge/Apache%20HTTP-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven%20WAR-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux%20Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Tools & Platforms**
 
@@ -82,17 +84,18 @@
 
 ## 🚀 All Projects
 
-| # | Project | Description | Tech | Stars |
-|---|---------|-------------|------|-------|
-| 1 | <a href="https://github.com/wahidali-glitch/BluetoothChatApp" target="_blank">🔵 BluetoothChatApp</a> | Android Bluetooth Chat App with device discovery, real-time messaging, file transfer & timestamps | Kotlin | ⭐ 3 |
-| 2 | <a href="https://github.com/wahidali-glitch/personal-expense-tracker-fullstack-java" target="_blank">💳 personal-expense-tracker-fullstack-java</a> | Full-stack Java expense manager with JSP, Servlets, Hibernate, PostgreSQL & BCrypt auth — **built as a `.war` artifact and live-deployed on AWS EC2 with Apache Tomcat 10** · <a href="http://32.236.81.179/Front_back_end/" target="_blank">🌐 Live Demo</a> | Java · AWS EC2 | ⭐ 2 |
-| 3 | <a href="https://github.com/wahidali-glitch/Cricket-Match-Prediction" target="_blank">🏏 Cricket-Match-Prediction</a> | AI-powered cricket match predictor using Python, Flask & Decision Tree Algorithm | Python / Flask | ⭐ 1 |
-| 4 | <a href="https://github.com/wahidali-glitch/wahidali-glitch.github.io" target="_blank">🌐 wahidali-glitch.github.io</a> | Personal portfolio website | HTML / CSS | ⭐ 2 |
-| 5 | <a href="https://github.com/wahidali-glitch/login-system-fullstack" target="_blank">🔐 login-system-fullstack</a> | Full-stack auth system with user dashboard, registration & management | Java | ⭐ 2 |
-| 6 | <a href="https://github.com/wahidali-glitch/login-registration-servlet-jdbc" target="_blank">🛡️ login-registration-servlet-jdbc</a> | Login & Registration system using Java Servlets, JSP, JDBC & PostgreSQL | Java | ⭐ 2 |
-| 7 | <a href="https://github.com/wahidali-glitch/Campus-Network-DHCP-DNS" target="_blank">🌍 Campus-Network-DHCP-DNS</a> | Campus network simulation with DHCP, DNS, IP addressing & static routing (MIT License) | Networking | ⭐ 2 |
-| 8 | <a href="https://github.com/wahidali-glitch/SecureTrust-Bank-Network-Design" target="_blank">🏦 SecureTrust-Bank-Network-Design</a> | Secure banking network simulation with VLANs, Inter-VLAN routing, DHCP, DNS, RIP v2 & ACL security | Networking | ⭐ |
-| 9 | <a href="https://github.com/wahidali-glitch/dbms-normalization-postgresql" target="_blank">🗄️ dbms-normalization-postgresql</a> | Practical DBMS normalization from UNF → 1NF → 2NF with 10 real-world scenarios using PostgreSQL & DBeaver | PostgreSQL / SQL | ⭐ |
+| # | Project | Description | Tech | Demo | Stars |
+|---|---------|-------------|------|------|-------|
+| 1 | <a href="https://github.com/wahidali-glitch/netflix-ai-movie-recommender" target="_blank">🎬 netflix-ai-movie-recommender</a> | AI-powered movie recommendation system using Content-Based Filtering, KNN & Cosine Similarity — deployed with a Netflix-style UI, live movie posters & ratings via TMDB API | Python · Scikit-learn · Streamlit · TMDB API | <a href="https://netflix-ai-movie-recommender-zwnhjvhqog678y7bjpphbe.streamlit.app" target="_blank">🌐 Live Demo</a> | ⭐ |
+| 2 | <a href="https://github.com/wahidali-glitch/personal-expense-tracker-fullstack-java" target="_blank">💳 personal-expense-tracker-fullstack-java</a> | Full-stack Java expense manager with JSP, Servlets, Hibernate, PostgreSQL & BCrypt auth — built as a `.war` artifact and live-deployed on AWS EC2 with Apache Tomcat 10 | Java · AWS EC2 | <a href="http://32.236.81.179/Front_back_end/" target="_blank">🌐 Live Demo</a> | ⭐ 2 |
+| 3 | <a href="https://github.com/wahidali-glitch/BluetoothChatApp" target="_blank">🔵 BluetoothChatApp</a> | Android Bluetooth Chat App with device discovery, real-time messaging, file transfer & timestamps | Kotlin | — | ⭐ 3 |
+| 4 | <a href="https://github.com/wahidali-glitch/Cricket-Match-Prediction" target="_blank">🏏 Cricket-Match-Prediction</a> | AI-powered cricket match predictor using Python, Flask & Decision Tree Algorithm | Python · Flask | — | ⭐ 1 |
+| 5 | <a href="https://github.com/wahidali-glitch/wahidali-glitch.github.io" target="_blank">🌐 wahidali-glitch.github.io</a> | Personal portfolio website | HTML · CSS | <a href="https://wahidali-glitch.github.io" target="_blank">🌐 Live</a> | ⭐ 2 |
+| 6 | <a href="https://github.com/wahidali-glitch/login-system-fullstack" target="_blank">🔐 login-system-fullstack</a> | Full-stack auth system with user dashboard, registration & management | Java | — | ⭐ 2 |
+| 7 | <a href="https://github.com/wahidali-glitch/login-registration-servlet-jdbc" target="_blank">🛡️ login-registration-servlet-jdbc</a> | Login & Registration system using Java Servlets, JSP, JDBC & PostgreSQL | Java | — | ⭐ 2 |
+| 8 | <a href="https://github.com/wahidali-glitch/Campus-Network-DHCP-DNS" target="_blank">🌍 Campus-Network-DHCP-DNS</a> | Campus network simulation with DHCP, DNS, IP addressing & static routing (MIT License) | Networking | — | ⭐ 2 |
+| 9 | <a href="https://github.com/wahidali-glitch/SecureTrust-Bank-Network-Design" target="_blank">🏦 SecureTrust-Bank-Network-Design</a> | Secure banking network simulation with VLANs, Inter-VLAN routing, DHCP, DNS, RIP v2 & ACL security | Networking | — | ⭐ |
+| 10 | <a href="https://github.com/wahidali-glitch/dbms-normalization-postgresql" target="_blank">🗄️ dbms-normalization-postgresql</a> | Practical DBMS normalization from UNF → 1NF → 2NF with 10 real-world scenarios using PostgreSQL & DBeaver | PostgreSQL · SQL | — | ⭐ |
 
 ---
 
