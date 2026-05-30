@@ -102,20 +102,26 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wahidali-glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wahidali-glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahidali-glitch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=wahidali-glitch&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="55%" />
+  <img src="https://streak-stats.demolab.com?user=wahidali-glitch&theme=tokyonight&hide_border=true" width="55%" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wahidali-glitch&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4&margin-h=4" />
+  <img src="https://img.shields.io/badge/Projects-10%2B-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contributions-95%2B-brightgreen?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streak-14%20Days-orange?style=for-the-badge&logo=fire&logoColor=white" />
+  <img src="https://img.shields.io/badge/Languages-6%2B-purple?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-yellow?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Deployed-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Specialist-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 ---
