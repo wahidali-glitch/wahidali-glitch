@@ -35,6 +35,7 @@
 
 **Languages**
 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -119,7 +120,7 @@
   <img src="https://img.shields.io/badge/Projects-10%2B-blue?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Contributions-95%2B-brightgreen?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Streak-14%20Days-orange?style=for-the-badge&logo=fire&logoColor=white" />
-  <img src="https://img.shields.io/badge/Languages-6%2B-purple?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Languages-7%2B-purple?style=for-the-badge&logo=code&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-yellow?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-Deployed-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Backend-Specialist-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
