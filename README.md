@@ -102,8 +102,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wahidali-glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahidali-glitch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wahidali-glitch&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wahidali-glitch&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wahidali-glitch&theme=tokyonight" width="32%" />
 </p>
 
 <p align="center">
