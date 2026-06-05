@@ -40,19 +40,7 @@ Currently studying CS, exploring system design and advanced DSA.
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wahidali-glitch&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default" width="50%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=wahidali-glitch&theme=default&hide_border=true" width="50%" />
-</p>
-
----
-
-### Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wahidali-glitch&theme=github-compact&hide_border=true&area=true" width="95%" />
 </p>
 
 ---
