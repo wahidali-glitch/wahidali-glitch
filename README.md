@@ -1,12 +1,10 @@
 <h1 align="center">Wahid Ali</h1>
-
 <p align="center">
   Backend Developer · CS Student · Islamabad, Pakistan
 </p>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/wahid-ali-93b436301/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://wahidali-glitch.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/wahid-ali-93b436301/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://wahidali-glitch.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white"/></a>
   <a href="mailto:wahid.imcb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -42,7 +40,19 @@ Currently studying CS, exploring system design and advanced DSA.
 ### Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wahidali-glitch&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default" width="50%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=wahidali-glitch&theme=default&hide_border=true" width="50%" />
+</p>
+
+---
+
+### Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wahidali-glitch&theme=github-compact&hide_border=true&area=true" width="95%" />
 </p>
 
 ---
