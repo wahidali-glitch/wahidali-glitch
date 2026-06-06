@@ -40,7 +40,7 @@ Currently studying CS, exploring system design and advanced DSA.
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=wahidali-glitch&theme=default&hide_border=true" width="50%" />
+  <img src="https://streak-stats.demolab.com?user=wahidali-glitch&theme=default&hide_border=true" width="50%" />
 </p>
 
 ---
