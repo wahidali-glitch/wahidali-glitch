@@ -1,4 +1,5 @@
-<h1 align="center">Wahid Ali</h1>
+# 🧠 Wahid Ali
+
 <p align="center">
   Backend Developer · CS Student · Islamabad, Pakistan
 </p>
