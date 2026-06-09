@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Wahid Ali🧠<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d95d1d00-1e71-431b-9154-5184c6692742" />
+<h1 align="center">🧠 Wahid Ali🧠<img width="12" height="12" alt="image" src="https://github.com/user-attachments/assets/d95d1d00-1e71-431b-9154-5184c6692742" />
 </h1>
 
 <p align="center">
