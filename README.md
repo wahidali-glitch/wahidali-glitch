@@ -1,9 +1,9 @@
-<h1 align="center">🧠 Wahid Ali<img width="29" height="28" alt="image" src="https://github.com/user-attachments/assets/d95d1d00-1e71-431b-9154-5184c6692742" />
-</h1>
+<h1 align="center">🧠 Wahid Ali <img width="29" height="28" src="https://github.com/user-attachments/assets/d95d1d00-1e71-431b-9154-5184c6692742" /></h1>
 
 <p align="center">
   Backend Developer · CS Student · Islamabad, Pakistan
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/wahid-ali-93b436301/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://wahidali-glitch.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white"/></a>
@@ -42,11 +42,20 @@ Currently studying CS, exploring system design and advanced DSA.
 ### Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=wahidali-glitch&theme=default&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wahidali-glitch&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=wahidali-glitch&theme=default&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahidali-glitch&layout=compact&theme=default&hide_border=true&langs_count=6" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wahidali-glitch&theme=default" width="70%" />
 </p>
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wahidali-glitch&style=flat-square&color=grey&label=profile+views" />
-</p>
+</p
