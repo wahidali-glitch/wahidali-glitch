@@ -1,4 +1,5 @@
-<h1 align="center"> Wahid Ali
+<h1 align="center">![Uploading image.png…]()
+ Wahid Ali
 </h1>
 <p align="center">
   Backend Developer · CS Student · Islamabad, Pakistan
