@@ -1,7 +1,7 @@
 <h1 align="center"> Wahid Ali
 </h1>
 <p align="center">
-  Backend Developer · CS Student · Islamabad, Pakistan
+  Backend Developer · AI Engineer CS Student · Islamabad, Pakistan
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/wahid-ali-93b436301/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
