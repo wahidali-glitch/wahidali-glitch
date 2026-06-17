@@ -1,4 +1,4 @@
-<h1 align="center"> Wahid Ali
+<h1 align="center" Wahid Ali
 </h1>
 <p align="center">
   Backend Developer · AI Engineer CS Student · Islamabad, Pakistan
