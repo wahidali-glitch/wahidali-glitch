@@ -36,13 +36,3 @@ Currently studying CS, exploring system design and advanced DSA.
 
 ---
 
-### Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=wahidali-glitch&theme=default&hide_border=true" width="50%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wahidali-glitch&style=flat-square&color=grey&label=profile+views" />
-</p>
